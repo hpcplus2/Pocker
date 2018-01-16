@@ -1,7 +1,7 @@
 # 运行代码
 
 ```
-git clone 
+git clone https://github.com/hpcplus2/Pocker.git
 npm install
 npm start
 ```
